@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/jw0621/eatDaBurger/issues"
   },
-  "homepage": "https://github.com/jw0621/eatDaBurger#readme"
+  "homepage": "https://github.com/jw0621/eatDaBurger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0"
+  }
 }
